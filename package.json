@@ -1,0 +1,26 @@
+{
+  "name": "voice-to-text-eg",
+  "version": "0.0.1",
+  "description": "An example node.js application that uses Azure Cognitive Services to transcribe audio files to text.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marothi-codes/nodejs-speech-to-text.git"
+  },
+  "keywords": [
+    "node.js",
+    "azure",
+    "speech-to-text",
+    "javascript",
+    "cognitive-services"
+  ],
+  "author": "Marothi Mahlake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marothi-codes/nodejs-speech-to-text/issues"
+  },
+  "homepage": "https://github.com/marothi-codes/nodejs-speech-to-text#readme"
+}

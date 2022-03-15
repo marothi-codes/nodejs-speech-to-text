@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/marothi-codes/nodejs-speech-to-text/issues"
   },
-  "homepage": "https://github.com/marothi-codes/nodejs-speech-to-text#readme"
+  "homepage": "https://github.com/marothi-codes/nodejs-speech-to-text#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.20.0"
+  }
 }
